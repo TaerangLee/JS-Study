@@ -7,3 +7,4 @@ var b= 300
 var c='Hello'
 
 console.log(c, a);
+console.log(a)

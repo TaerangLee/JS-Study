@@ -1,3 +1,3 @@
-console.log('sibal')
+console.log('js start')
 
-console.log('sibalsaki')
+console.log('first study')
